@@ -7,7 +7,7 @@ This repo documents the design of the **chain drive system** for the IITG Racing
 
 | | |
 |---|---|
-| **Author** | K. Aravindhan — Lead Engineer, Powertrain & Transmission |
+| **Author** | K Aravindhan — Lead Engineer, Powertrain & Transmission |
 | **Team** | IITG Racing – Formula Bharat |
 | **Tools** | OptimumLap (lap simulation) · Ansys Mechanical 2025 R2 (FEA + Topology Optimization) |
 | **Result** | 41% mass reduction on the driven sprocket (0.893 kg → 0.527 kg) |
@@ -111,7 +111,7 @@ A static structural baseline run (Structural Steel properties, 667.8 N·m ramped
 |---|---|---|---|
 | Driven sprocket mass | 0.893 kg | **0.527 kg** | **−41%** |
 | Volume | 1.138 × 10⁻⁴ m³ | 6.716 × 10⁻⁵ m³ | −41% |
-| Mass retained vs. 60% target | — | 59.01% | ✅ within 1% of target |
+| Mass retained vs. 60% target | — | 59.01% | within 1% of target |
 
 ---
 
