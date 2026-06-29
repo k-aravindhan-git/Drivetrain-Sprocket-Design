@@ -115,10 +115,4 @@ A static structural baseline run (Structural Steel properties, 667.8 N·m ramped
 
 ---
 
-## Notes & Recommendations
-
-> **Material mismatch flag:** The FEA/topology run used **Structural Steel** properties (E = 200 GPa, σy = 250 MPa, ρ = 7850 kg/m³), while the manufactured part is specified in **7075-T6 aluminium**. Results here validate the *load path and optimization methodology* only.
->
-> **Action item:** Re-run the static structural check with Al 7075-T6 properties, and add fatigue / chain-wear life checks, before releasing the final geometry for manufacture.
-
 ---
