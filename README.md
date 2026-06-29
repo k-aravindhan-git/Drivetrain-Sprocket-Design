@@ -22,8 +22,6 @@ This repo documents the design of the **chain drive system** for the IITG Racing
 - [Topology Optimization](#topology-optimization)
 - [FEA Validation](#fea-validation)
 - [Results Summary](#results-summary)
-- [Notes & Recommendations](#notes--recommendations)
-- [References](#references)
 
 ---
 
